@@ -1,0 +1,2 @@
+Parse successful!
+Result: BinOpNode(BinOpNode(TokenNode(INT(5)), MULT, TokenNode(INT(2))), ADD, TokenNode(INT(4)))
